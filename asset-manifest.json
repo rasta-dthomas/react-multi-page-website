@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-multi-page-website/static/css/main.8a3d32e2.chunk.css",
+    "main.js": "/react-multi-page-website/static/js/main.971864d2.chunk.js",
+    "main.js.map": "/react-multi-page-website/static/js/main.971864d2.chunk.js.map",
+    "runtime-main.js": "/react-multi-page-website/static/js/runtime-main.24557f5d.js",
+    "runtime-main.js.map": "/react-multi-page-website/static/js/runtime-main.24557f5d.js.map",
+    "static/js/2.52b3028d.chunk.js": "/react-multi-page-website/static/js/2.52b3028d.chunk.js",
+    "static/js/2.52b3028d.chunk.js.map": "/react-multi-page-website/static/js/2.52b3028d.chunk.js.map",
+    "index.html": "/react-multi-page-website/index.html",
+    "static/css/main.8a3d32e2.chunk.css.map": "/react-multi-page-website/static/css/main.8a3d32e2.chunk.css.map",
+    "static/js/2.52b3028d.chunk.js.LICENSE.txt": "/react-multi-page-website/static/js/2.52b3028d.chunk.js.LICENSE.txt",
+    "static/media/ProfilePic.db6bb203.jpg": "/react-multi-page-website/static/media/ProfilePic.db6bb203.jpg",
+    "static/media/home-office-336373.264e46a2.jpg": "/react-multi-page-website/static/media/home-office-336373.264e46a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24557f5d.js",
+    "static/js/2.52b3028d.chunk.js",
+    "static/css/main.8a3d32e2.chunk.css",
+    "static/js/main.971864d2.chunk.js"
+  ]
+}
