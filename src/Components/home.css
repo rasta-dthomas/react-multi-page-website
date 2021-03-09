@@ -1,6 +1,6 @@
 /* Style the counter cards */
 .card {
-    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 12px 20px 0 rgb(0, 0, 0);
     padding: 16px;
     text-align: center;
     /* background-color: canaryYellow; */
