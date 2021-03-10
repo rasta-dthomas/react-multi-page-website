@@ -20,7 +20,7 @@ class Cards extends Component {
                     <div className="column">
                         <div className="card">
                             <h3>Backend Development</h3>
-                            <h4>Servers:</h4>
+                            <h3>Servers:</h3>
                             <p>MongoDB</p>
                             <p>MySQL</p>
                             <p>PostgreSQL</p>
